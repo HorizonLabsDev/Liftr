@@ -1,41 +1,55 @@
+# Liftr – Terms of Use / Nutzungsbedingungen
+
 ## Deutsch
 
-Liftr ist eine iOS-App von Horizon Labs. Der Grundfunktionsumfang ist kostenlos nutzbar; einzelne Zusatzfunktionen (Liftr Pro) können über einen einmaligen In-App-Kauf freigeschaltet werden.
+**Liftr** ist eine iOS-App von Horizon Labs. Der Grundfunktionsumfang ist kostenlos nutzbar; einzelne Zusatzfunktionen (Liftr Pro) können über einen einmaligen In-App-Kauf freigeschaltet werden.
 
 ### In-App-Käufe
 
-Liftr Pro ist ein einmaliger Kauf (kein Abo, keine automatische Verlängerung) und schaltet die Pro-Funktionen dauerhaft frei. Vor dem Kauf kannst du Liftr Pro 7 Tage kostenlos testen; nach Ablauf der Testphase werden die Pro-Funktionen automatisch wieder gesperrt, bis du kaufst – dabei entstehen keine Kosten. Käufe werden ausschließlich über den App Store abgewickelt; für Rückerstattungen wende dich bitte an Apple.
+Liftr Pro ist ein einmaliger Kauf (kein Abo, keine automatische Verlängerung) und schaltet die Pro-Funktionen dauerhaft frei. Vor dem Kauf können Nutzer Liftr Pro sieben Tage kostenfrei testen; nach dieser Phase werden die Pro-Funktionen automatisch deaktiviert, bis ein Kauf erfolgt, ohne dass Gebühren anfallen. Käufe werden ausschließlich über den App Store abgewickelt; für Rückerstattungen wende dich bitte an Apple.
 
-Durch die Nutzung der App stimmst du den [Apple Standard-EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) zu.
+### iCloud-Sync, Trainer-Freigabe und Trainerplan
 
-Die App wird ohne Gewährleistung bereitgestellt. Horizon Labs haftet nicht für Datenverlust oder Schäden, die durch die Nutzung entstehen.
+Diese Funktionen sind optional und nutzen Apple iCloud. Du bist selbst dafür verantwortlich, wem du Zugriff gibst. Wenn du als Trainer Daten oder Pläne anderer Personen erhältst, gehst du mit ihnen vertraulich um. Horizon Labs übernimmt keine Verantwortung für Trainingsanweisungen oder Pläne, die Trainer erstellen; Training erfolgt auf eigene Verantwortung.
 
-Wir behalten uns vor, die App jederzeit zu ändern oder einzustellen.
+### Allgemeines
+
+Durch die Nutzung der App stimmst du den Apple Standard-EULA zu.
+
+Die App wird ohne Gewährleistung bereitgestellt. Horizon Labs haftet nicht für Datenverlust oder Schäden aus der Nutzung.
+
+Horizon Labs behält sich vor, die App jederzeit zu ändern oder einzustellen.
 
 ### Kontakt
 
-horizonlabs.dev@gmail.com
+horizonlabsdev@gmail.com
 
-*Zuletzt aktualisiert: September 2026*
+_Zuletzt aktualisiert: September 2026_
 
 ---
 
 ## English
 
-Liftr is an iOS app by Horizon Labs. The core app is free to use; additional features (Liftr Pro) can be unlocked via a one-time in-app purchase.
+**Liftr** is an iOS app by Horizon Labs. The core functionality is free to use; additional features (Liftr Pro) can be unlocked through a one-time in-app purchase.
 
 ### In-App Purchases
 
-Liftr Pro is a one-time purchase (no subscription, no auto-renewal) that permanently unlocks the Pro features. Before purchasing, you can try Liftr Pro free for 7 days; once the trial ends, Pro features are automatically locked again until you purchase – no charge occurs. Purchases are processed exclusively through the App Store; for refunds, please contact Apple.
+Liftr Pro is a one-time purchase (no subscription, no auto-renewal) that permanently unlocks the Pro features. Before purchasing, users can try Liftr Pro free of charge for seven days; after this period the Pro features are deactivated automatically until a purchase is made, with no fees incurred. Purchases are processed exclusively through the App Store; for refunds, please contact Apple.
 
-By using the app, you agree to the [Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+### iCloud sync, trainer sharing and trainer plans
 
-The app is provided without warranty. Horizon Labs is not liable for any data loss or damages resulting from use of the app.
+These features are optional and use Apple iCloud. You are responsible for whom you grant access. If you receive other people's data or plans as a trainer, you treat them confidentially. Horizon Labs is not responsible for training instructions or plans created by trainers; you train at your own risk.
 
-We reserve the right to modify or discontinue the app at any time.
+### General
+
+By using the app you agree to the Apple Standard EULA.
+
+The app is provided without warranty. Horizon Labs is not liable for data loss or damages arising from its use.
+
+Horizon Labs reserves the right to change or discontinue the app at any time.
 
 ### Contact
 
-horizonlabs.dev@gmail.com
+horizonlabsdev@gmail.com
 
-*Last updated: September 2026*
+_Last updated: September 2026_
