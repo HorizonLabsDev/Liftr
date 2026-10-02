@@ -23,7 +23,7 @@ Dritte
 Keine Werbenetze, keine Analytics, keine Tracker.
 
 Kontakt
-horizonlabsdev@gmail.com
+horizonlabs.dev@gmail.com
 
 Stand: Oktober 2026
 
@@ -51,6 +51,6 @@ Third parties
 No ad networks, no analytics, no trackers.
 
 Contact
-horizonlabsdev@gmail.com
+horizonlabs.dev@gmail.com
 
 Last updated: October 2026
